@@ -30,6 +30,7 @@ func (noopTokenStore) GetRefreshToken(context.Context, string) (string, error) {
 	return "", spotify.ErrNotConnected
 }
 func (noopTokenStore) SaveRefreshToken(context.Context, string, string) error { return nil }
+func (noopTokenStore) DeleteRefreshToken(context.Context, string) error       { return nil }
 
 func randomState() string {
 	b := make([]byte, 16)

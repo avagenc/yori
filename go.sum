@@ -167,8 +167,8 @@ github.com/zmb3/spotify/v2 v2.4.3 h1:4divquzK2Mzo90XVIij4K7Z98Hf+6A3qPnksqtcDIuo
 github.com/zmb3/spotify/v2 v2.4.3/go.mod h1:XOV7BrThayFYB9AAfB+L0Q0wyxBuLCARk4fI/ZXCBW8=
 go.naturallyfunny.dev/adk v1.30.0 h1:98jm9pPI234eKJz5W770aVlqu+KPS2ClD2NK716ery4=
 go.naturallyfunny.dev/adk v1.30.0/go.mod h1:ER5mHACsj07jvzm0bvDiuIOQuGnGMiE8z3TBzYDaZgo=
-go.naturallyfunny.dev/spotify v0.6.0 h1:DO8XEiar17AO7ety7M0RzzoBGZAFLsI0LzW34Ln9U/Q=
-go.naturallyfunny.dev/spotify v0.6.0/go.mod h1:ZXKhUK13qmgPx8vec2SnXTCT0U8piS77jmoI3dpO+t0=
+go.naturallyfunny.dev/spotify v0.7.0 h1:g7SxklSpz9gs/4GuJYMC+iaIrZP1CCwJfMyeT62jMuU=
+go.naturallyfunny.dev/spotify v0.7.0/go.mod h1:ZXKhUK13qmgPx8vec2SnXTCT0U8piS77jmoI3dpO+t0=
 go.opencensus.io v0.21.0/go.mod h1:mSImk1erAIZhrmZN+AvHh14ztQfjbGwt4TtuofqLduU=
 go.opencensus.io v0.22.0/go.mod h1:+kGneAE2xo2IficOXnaByMWTGM9T73dGwxeWcUqIpI8=
 go.opencensus.io v0.22.2/go.mod h1:yxeiOL68Rb0Xd1ddK5vPZ/oVn4vY4Ynel7k9FzqtOIw=

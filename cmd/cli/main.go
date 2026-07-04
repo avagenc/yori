@@ -37,6 +37,7 @@ func (s *staticTokenStore) GetRefreshToken(_ context.Context, _ string) (string,
 	return s.refreshToken, nil
 }
 func (s *staticTokenStore) SaveRefreshToken(_ context.Context, _, _ string) error { return nil }
+func (s *staticTokenStore) DeleteRefreshToken(_ context.Context, _ string) error  { return nil }
 
 func main() {
 	// 0. Load environment vars
