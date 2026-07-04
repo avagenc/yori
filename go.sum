@@ -165,10 +165,12 @@ github.com/yuin/goldmark v1.1.32/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9de
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
 github.com/zmb3/spotify/v2 v2.4.3 h1:4divquzK2Mzo90XVIij4K7Z98Hf+6A3qPnksqtcDIuo=
 github.com/zmb3/spotify/v2 v2.4.3/go.mod h1:XOV7BrThayFYB9AAfB+L0Q0wyxBuLCARk4fI/ZXCBW8=
-go.naturallyfunny.dev/adk v1.27.0 h1:NP8EMwfBws1J4sNzsHPCPfyC3BvEH71/3DT16HVXcHk=
-go.naturallyfunny.dev/adk v1.27.0/go.mod h1:Sg94EL7FbIGAhL8YWXD5xgG6nJV02PcPsziDGt2EI8c=
-go.naturallyfunny.dev/spotify v0.4.0 h1:bZCAnQE4WmZWSjZJ92pJQLhQS9aCyYAfjCmyNbJDOyo=
-go.naturallyfunny.dev/spotify v0.4.0/go.mod h1:ZXKhUK13qmgPx8vec2SnXTCT0U8piS77jmoI3dpO+t0=
+go.naturallyfunny.dev/adk v1.29.0 h1:fu/LtVp645qLkg8YKS4aLwarEvn5wa4fM+7NJIk1y+4=
+go.naturallyfunny.dev/adk v1.29.0/go.mod h1:eIWkAG1Oefn2Jnvck+6mMBRQCSH2a0ARdSkON7BApfY=
+go.naturallyfunny.dev/spotify v0.5.0 h1:gsOK2oEvrSDT3T5kg1L3TRbjRtqqmkNUpz7Fnl087QQ=
+go.naturallyfunny.dev/spotify v0.5.0/go.mod h1:ZXKhUK13qmgPx8vec2SnXTCT0U8piS77jmoI3dpO+t0=
+go.naturallyfunny.dev/spotify v0.5.1 h1:9u3Q7xtMXW1MOSruXZbPTvJKBhRiC/8z2WavYUfkLeM=
+go.naturallyfunny.dev/spotify v0.5.1/go.mod h1:ZXKhUK13qmgPx8vec2SnXTCT0U8piS77jmoI3dpO+t0=
 go.opencensus.io v0.21.0/go.mod h1:mSImk1erAIZhrmZN+AvHh14ztQfjbGwt4TtuofqLduU=
 go.opencensus.io v0.22.0/go.mod h1:+kGneAE2xo2IficOXnaByMWTGM9T73dGwxeWcUqIpI8=
 go.opencensus.io v0.22.2/go.mod h1:yxeiOL68Rb0Xd1ddK5vPZ/oVn4vY4Ynel7k9FzqtOIw=

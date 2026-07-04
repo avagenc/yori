@@ -5,8 +5,8 @@ go 1.25.11
 require (
 	github.com/joho/godotenv v1.5.1
 	github.com/zmb3/spotify/v2 v2.4.3
-	go.naturallyfunny.dev/adk v1.27.0
-	go.naturallyfunny.dev/spotify v0.4.0
+	go.naturallyfunny.dev/adk v1.29.0
+	go.naturallyfunny.dev/spotify v0.5.1
 	google.golang.org/adk v1.4.0
 	google.golang.org/genai v1.58.0
 )
