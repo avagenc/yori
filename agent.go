@@ -4,7 +4,7 @@ import (
 	_ "embed"
 	"fmt"
 
-	adkspotify "go.naturallyfunny.dev/adk/spotify"
+	adkspotify "go.naturallyfunny.dev/agentkit/spotify/adk"
 	"go.naturallyfunny.dev/spotify"
 	"google.golang.org/adk/agent"
 	"google.golang.org/adk/agent/llmagent"
